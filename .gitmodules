@@ -1,0 +1,3 @@
+[submodule "2-sql-for-data-engineers/2-sql-for-data-engineers/adv_data_transformation_in_sql"]
+	path = 2-sql-for-data-engineers/2-sql-for-data-engineers/adv_data_transformation_in_sql
+	url = https://github.com/josephmachado/adv_data_transformation_in_sql.git
